@@ -50,3 +50,9 @@ Edit the following variables in `eth_miner.py`:
 ```python
 WALLET_ADDRESS = ""
 MINING_POOL = "eth.pool.example:4444"
+```
+
+---
+
+THIS PROJECT IS FICTIONAL AND HAS BEEN CREATED FOR AN OSINT EXERCISE
+NONE OF THE DATA IN THIS PROJECT SHOULD BE USED AS IS
