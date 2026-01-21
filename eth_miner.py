@@ -2,8 +2,8 @@ import time
 import random
 import hashlib
 
-WALLET_ADDRESS = "0xF7cd6FbD50CfFDA17409cabfd607133f3A2558ee"
-MINING_POOL = "eth.pool.example:4444"
+WALLET_ADDRESS = ""
+MINING_POOL = ""
 
 HASHRATE_TARGET = 120_000
 DIFFICULTY = 5_000_000
